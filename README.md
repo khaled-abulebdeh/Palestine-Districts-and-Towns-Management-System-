@@ -18,7 +18,7 @@ Developed in **C Language**, the system provides a full menu-driven interface al
 | `main.c` | C source code implementing the full system (districts and towns management with sorting) |
 | `districts.txt` | Input file containing district names, town names, and populations (to be prepared by user) |
 | `sorted_districts.txt` | Output file generated after sorting and saving the data |
-| `Project+1.pdf` | Project specification document from the university |
+| `Project.pdf` | Project specification document from the university |
 
 ---
 
