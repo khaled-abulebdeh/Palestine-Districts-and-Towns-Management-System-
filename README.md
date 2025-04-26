@@ -43,11 +43,3 @@ Developed in **C Language**, the system provides a full menu-driven interface al
 - Basic familiarity with Linked Lists and Radix Sort concepts
 
 
-
----
-
-## License
-
-This project is for academic use only.
-
----
